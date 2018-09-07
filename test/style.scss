@@ -1,0 +1,6 @@
+@import '../src/main.scss';
+
+.not-selectable {
+  @include user-select;
+}
+
